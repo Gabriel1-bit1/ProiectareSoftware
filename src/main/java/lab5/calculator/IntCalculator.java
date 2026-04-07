@@ -1,4 +1,4 @@
-package lab5;
+package lab5.calculator;
 
 public class IntCalculator {
     // Folosim protected pentru a permite accesul în clasa derivată (AdvancedCalculator)

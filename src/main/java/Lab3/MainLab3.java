@@ -36,7 +36,6 @@ public class MainLab3 {
             for (String linie : liniiText) {
                 String linieModificataB = linie.replace(".", ".\n");
                 rezultatB.append(linieModificataB).append("\n");
-
                 System.out.print(linieModificataB + "\n");
             }
 

@@ -1,4 +1,4 @@
-package lab5;
+package lab5.calculator;
 
 public class AppLab5 {
     public static void main(String[] args) {
